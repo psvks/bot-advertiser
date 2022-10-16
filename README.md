@@ -11,12 +11,12 @@ I am not responsible for any charges. **The project will not be updated.**
 
 ## Installation.
 
-1- **Go to your exploit folder.**
-2- **Once inside head over to the workspace folder**
-3- **Insert or grab and drop the folders `config`, `handler`, `src` for fully working**
-4- **Go to your exploit folder again.**
-5- **Head over to the `autoexec` and grab the file `loader.lua` and then drop.**
-6- **Configure your `loader.lua`**
+1- **Go to your exploit folder.**  
+2- **Once inside head over to the workspace folder**  
+3- **Insert or grab and drop the folders `config`, `handler`, `src` for fully working**  
+4- **Go to your exploit folder again.**  
+5- **Head over to the `autoexec` and grab the file `loader.lua` and then drop.**  
+6- **Configure your `loader.lua`**  
 
 Once done you can advertise!  
 The files are open source if roblox patches this, you can fix it
