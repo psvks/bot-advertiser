@@ -23,7 +23,7 @@ The files are open source if roblox patches this, you can fix it
 
 ## Docs.
 
-```css 
+```py
 getRamdomMath(<string>, <number>)
 
 -- In the first string you get two options: *game* and *chat* to generate a ramdom number.
@@ -46,7 +46,7 @@ Output: Ramdom. It can be 1 up to 4
 
 ---
 
-```css 
+```py
 say(<void>)
 
 -- The ramdom message selected.
@@ -68,7 +68,7 @@ Output: Ramdom. It can be 1 up to 3
 
 ---
 
-```css 
+```py
 say_and_rejoin(<void>)
 
 -- The ramdom message selected.
