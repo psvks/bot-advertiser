@@ -7,7 +7,7 @@ We are not responsible for the bans, ***you are responsible for them and we are 
 ## Notes.
 
 As I have mentioned in other projects this is only for educational purposes.  
-I am not responsible for any charges. **The project will not be updated.**  
+I am not responsible for any charges. In the next days will be `not join same server` update. This will prevent to join the same server.
 As it was patched at some point, only oldest games will work. And a new method is being developed.
 
 ## Installation.
